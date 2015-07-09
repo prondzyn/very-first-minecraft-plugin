@@ -1,0 +1,10 @@
+name: Very First Minecraft Plugin by prondzyn
+version: 1.0-SNAPSHOT
+main: com.prondzyn.minecraft.plugin.Main
+author: prondzyn
+website: http://prondzyn.com
+
+commands:
+  heal:
+    description: Heal command made by prondzyn in VFP
+    aliases: [lecz, ulecz]
